@@ -1,4 +1,8 @@
 This is the sample file.
 This is the second sample.
+<<<<<<< HEAD
 
 Sample.
+=======
+One.
+>>>>>>> 179c10909f400199663e96b47cebe0e0f3b4049f
